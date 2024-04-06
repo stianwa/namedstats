@@ -1,5 +1,5 @@
 # namedstats
-
+[![Go Reference](https://pkg.go.dev/badge/github.com/stianwa/namedstats.svg)](https://pkg.go.dev/github.com/stianwa/namedstats) [![Go Report Card](https://goreportcard.com/badge/github.com/stianwa/namedstats)](https://goreportcard.com/report/github.com/stianwa/namedstats)
 Package namedstats implements a BIND named_stats.txt parser.
 
 Installation

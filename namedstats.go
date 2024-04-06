@@ -116,7 +116,7 @@ func New(content []byte) (*Stats, error) {
 
 			continue
 		} else if section == nil {
-			return nil, fmt.Errorf("expection section in line %d", lineno+2)
+			return nil, fmt.Errorf("expected section start in line %d", lineno+2)
 		}
 		if name := getSubSection(line); name != "" {
 			subsection = &SubSection{

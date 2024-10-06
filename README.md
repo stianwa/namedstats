@@ -47,4 +47,4 @@ The namedstats module is currently under development.
 License
 -------
 
-GPLv3, see [LICENSE.md](LICENSE.md)
+MIT, see [LICENSE.md](LICENSE.md)
